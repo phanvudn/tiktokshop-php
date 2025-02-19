@@ -10,7 +10,7 @@
       "role": "Developer"
     }
   ],
-  "require": {
+  "require": {dd
     "php": "^7.2|^8.0",
     "ext-json": "*",
     "guzzlehttp/guzzle": "^7.3|^6.5"
