@@ -15,7 +15,7 @@
     "php": "^7.2|^8.3",
     "ext-json": "*",
     "guzzlehttp/guzzle": "^7.3|^6.5"
-    "phanvudn/tiktokshop-php": "dev-main"
+    "ecomphp/tiktokshop-php": "dev-main"
   },
       "repositories": [
         {
